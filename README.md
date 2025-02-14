@@ -1,4 +1,4 @@
-## Revo -EESTechChallenge 2023
+# Revo -EESTechChallenge 2023
 
 🏆 **About the Project**
 
