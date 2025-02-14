@@ -8,9 +8,9 @@ We are proud to have placed 2nd in this competition!
 
 🛠️ **Technologies Used**
 
-Frontend: React.js
-Package Management: npm
-Configuration: babel
+- Frontend: React.js
+- Package Management: npm
+- Configuration: babel
 
 🤝 **Team**
 
