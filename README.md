@@ -12,9 +12,7 @@ Frontend: [React]
 
 🤝 **Team**
 
-Ajla Beća
-
-Selma Salman
-
-Faris Selimović
+- Ajla Beća
+- Selma Salman
+- Faris Selimović
 
